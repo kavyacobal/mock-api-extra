@@ -1,0 +1,403 @@
+{
+exihibit:{
+    "formType": "Exhibit A -Foodbuy",
+    "questions": [
+      {
+        "questionId": 1,
+        "sectionTitle": "Administrative and Technology",
+        "title": "Check All That Apply  Administrative",
+        "options": [
+          {
+            "optionText": "HR Screening and Background Program: First Advantage",
+            "optionValue": false
+          },
+          {
+            "optionText": "Vehicle Rental Program: Enterprise/National Car and Truck Rentals",
+            "optionValue": false
+          },
+          {
+            "optionText": "Interior Signage & Waynding : American Image **Program Eligibility Rules may apply. Foodbuy will pro",
+            "optionValue": false
+          },
+          {
+            "optionText": "Nutrition Labels and Label Printer: MedVantage/FreshDate",
+            "optionValue": false
+          },
+          {
+            "optionText": "Office Technology Program: Ricoh",
+            "optionValue": false
+          },
+          {
+            "optionText": "Shipping Services Program: UPS",
+            "optionValue": false
+          },
+          {
+            "optionText": "TV’s: Samsung (distributed by Almo exclusively for Foodbuy)",
+            "optionValue": false
+          },
+          {
+            "optionText": "Digital Signage, Waynding & Menu Boards Program: VGS",
+            "optionValue": false
+          },
+          {
+            "optionText": "Food Safety Solutions - Temperature Monitoring: ComplianceMate",
+            "optionValue": false
+          },
+          {
+            "optionText": "Administrative Supplies Program: Ofce Depot",
+            "optionValue": false
+          }
+        ],
+        "multiple": true,
+        "mandatory": true
+      },
+      {
+        "questionId": 2,
+        "sectionTitle": "Equipment and Supplies",
+        "title": "Check All That Apply Equipment",
+        "options": [
+          {
+            "optionText": "Smallwares, Foodservice Equipment and Supplies Distribution: Edward Don",
+            "optionValue": false
+          },
+          {
+            "optionText": "Smallwares & Foodservice Equipment and Supplies Distribution: Supply America",
+            "optionValue": false
+          },
+          {
+            "optionText": "Paper and Disposables Program: Network Distribution Centers **Program Eligibility Rules may apply. F",
+            "optionValue": false
+          },
+          {
+            "optionText": "Blast Chillers: Traulsen",
+            "optionValue": false
+          },
+          {
+            "optionText": "Blast Chillers: Irinox",
+            "optionValue": false
+          },
+          {
+            "optionText": "Blast Chillers: American Panel",
+            "optionValue": false
+          },
+          {
+            "optionText": "Commercial Microwaves: Midea",
+            "optionValue": false
+          },
+          {
+            "optionText": "Commercial Refrigerators: TRUE Manufacturing",
+            "optionValue": false
+          }
+        ],
+        "multiple": true,
+        "mandatory": true
+      },
+      {
+        "questionId": 3,
+        "sectionTitle": "Food and Beverage a La Carte Program",
+        "title": "Select \"All\" Unless Exclusions Apply",
+        "options": [
+          {
+            "optionText": "All Available Food and Beverage Programs (Via Broadline)",
+            "optionValue": false
+          },
+          {
+            "optionText": "Programs to exclude from Subscription: (Please List Below)",
+            "optionValue": false
+          },
+          {
+            "optionText": "S&D Coffee Program: Includes Equipment/Service (Direct Store Delivery & (Broadline)",
+            "optionValue": false
+          },
+          {
+            "optionText": "Farmer Brother Coffee Program: includes Equipment/Service (Direct Store Delivery)",
+            "optionValue": false
+          }
+        ],
+        "multiple": true,
+        "mandatory": true
+      },
+      {
+        "questionId": 4,
+        "sectionTitle": "Golf Maintenance, Pro Shop and Equipment",
+        "title": "Check All That Apply  Golf Maintenance",
+        "options": [
+          {
+            "optionText": "Administrative Supplies Program: Ofce Depot",
+            "optionValue": false
+          },
+          {
+            "optionText": "Golf Program: VGM CLUB",
+            "optionValue": false
+          }
+        ],
+        "multiple": true,
+        "mandatory": true
+      },
+      {
+        "questionId": 5,
+        "sectionTitle": "In Room Amenities(OSE), Linen, Apparel",
+        "title": "Check All That Apply Room",
+        "options": [
+          {
+            "optionText": "Room and Amenities Programs via American Hotel Register",
+            "optionValue": false
+          },
+          {
+            "optionText": "Room and Amenities Programs via Guest Supply",
+            "optionValue": false
+          },
+          {
+            "optionText": "Room and Amenities Programs via HD Supply",
+            "optionValue": false
+          },
+          {
+            "optionText": "Safety Shoe Program: Shoes for Crews",
+            "optionValue": false
+          },
+          {
+            "optionText": "Uniform Program: Chef Works",
+            "optionValue": false
+          },
+          {
+            "optionText": "Uniform Rental and Purchase only: Cintas **Program Eligibility Rules may apply. Foodbuy will provide",
+            "optionValue": false
+          },
+          {
+            "optionText": "Uniform Purchase: Cintas **Program Eligibility Rules may apply. Foodbuy will provide details if you",
+            "optionValue": false
+          },
+          {
+            "optionText": "Local Rental Linen Program: Alsco",
+            "optionValue": false
+          },
+          {
+            "optionText": "Sheets, Towels and Linens for Purchase: Sobel Westex",
+            "optionValue": false
+          },
+          {
+            "optionText": "Textiles Program: American Dawn, Inc",
+            "optionValue": false
+          },
+          {
+            "optionText": "Key Card Program: PLI",
+            "optionValue": false
+          },
+          {
+            "optionText": "Mattress Program: Serta-Simmons",
+            "optionValue": false
+          },
+          {
+            "optionText": "Print Collateral, Brand & Promo Items, and Key Card Program: USFI",
+            "optionValue": false
+          },
+          {
+            "optionText": "Print Collateral, Brand & Promo Items, and Key Card Program: AS Hospitality",
+            "optionValue": false
+          },
+          {
+            "optionText": "Aroma Marketing Services: ScentAir",
+            "optionValue": false
+          },
+          {
+            "optionText": "In Room Safes: SafeMark",
+            "optionValue": false
+          }
+        ],
+        "multiple": true,
+        "mandatory": true
+      },
+      {
+        "questionId": 6,
+        "sectionTitle": "Maintenance and Engineering",
+        "title": "Check All That Apply  Maintenance",
+        "options": [
+          {
+            "optionText": "Maintenance Repair and Operation (MRO) Program: Grainger",
+            "optionValue": false
+          },
+          {
+            "optionText": "Maintenance, Repair and Operation (MRO) Program: Home Depot PRO (SupplyWorks)",
+            "optionValue": false
+          },
+          {
+            "optionText": "Maintenance, Repair and Operation (MRO) Program: HD Supply",
+            "optionValue": false
+          },
+          {
+            "optionText": "Maintenance Repair and Plumbing Supplies Program: Ferguson",
+            "optionValue": false
+          },
+          {
+            "optionText": "Waste Management Services: New Market Waste",
+            "optionValue": false
+          },
+          {
+            "optionText": "Liquid Waste Service (Grease Trap Cleaning): Liquid Environmental Solutions",
+            "optionValue": false
+          },
+          {
+            "optionText": "Pest Control Program: Orkin",
+            "optionValue": false
+          },
+          {
+            "optionText": "Lighting Products, Audits Program: Regency Lighting",
+            "optionValue": false
+          },
+          {
+            "optionText": "Bulk Oil, Oil Management Program: Restaurant Technologies, Inc",
+            "optionValue": false
+          },
+          {
+            "optionText": "Floor Cleaning Equipment (Vacuums, scrubbers, buffers) Program: Tennant",
+            "optionValue": false
+          },
+          {
+            "optionText": "Floor Cleaning Equipment (Vacuums, scrubbers, buffers) Program: Karcher / Windsor",
+            "optionValue": false
+          },
+          {
+            "optionText": "Floor Cleaning Equipment (Vacuums, scrubbers, buffers) Program: Nilsk-Advance",
+            "optionValue": false
+          },
+          {
+            "optionText": "Comprehensive Deep Cleaning Services: Renue Venue Restoration Services",
+            "optionValue": false
+          },
+          {
+            "optionText": "Elevators Program: Thyssen Krupp",
+            "optionValue": false
+          },
+          {
+            "optionText": "Fire, Life & Safety: Johnson Controls (SG Tyco)",
+            "optionValue": false
+          },
+          {
+            "optionText": "Water Treatment Services: Water Consultants of America",
+            "optionValue": false
+          }
+        ],
+        "multiple": true,
+        "mandatory": true
+      },
+      {
+        "questionId": 7,
+        "sectionTitle": "National Food Distribution Programs",
+        "title": "National Food Distribution Programs",
+        "options": [
+          {
+            "optionText": "Independent Broadline Foodservice Program* (By checking this you elect to remain on your current con",
+            "optionValue": false
+          },
+          {
+            "optionText": "US Foods",
+            "optionValue": false
+          },
+          {
+            "optionText": "Sysco Foods",
+            "optionValue": false
+          },
+          {
+            "optionText": "Vistar",
+            "optionValue": false
+          },
+          {
+            "optionText": "Cheney Brothers",
+            "optionValue": false
+          },
+          {
+            "optionText": "Shamrock Foods",
+            "optionValue": false
+          },
+          {
+            "optionText": "Gordon Foodservice",
+            "optionValue": false
+          },
+          {
+            "optionText": "Performance Food Group",
+            "optionValue": false
+          },
+          {
+            "optionText": "Food Services of America",
+            "optionValue": false
+          },
+          {
+            "optionText": "Other",
+            "optionValue": false
+          },
+          {
+            "optionText": "Regional Produce Program",
+            "optionValue": false
+          },
+          {
+            "optionText": "Regional Dairy Program",
+            "optionValue": false
+          },
+          {
+            "optionText": "Regional Seafood Program",
+            "optionValue": false
+          },
+          {
+            "optionText": "Regional Fresh Bakery Program",
+            "optionValue": false
+          },
+          {
+            "optionText": "Regional Meat Program (includes Beef, Pork, Veal, Exotic)",
+            "optionValue": false
+          },
+          {
+            "optionText": "Specialty Distribution: UNFI",
+            "optionValue": false
+          },
+          {
+            "optionText": "Specialty Distribution: Swiss Chalet",
+            "optionValue": false
+          },
+          {
+            "optionText": "Specialty Distribution: Tropical Nut",
+            "optionValue": false
+          },
+          {
+            "optionText": "Specialty Distribution: Ice Cream Distributors (Ex: Hershey Creamery, Jack & Jill, Ward’s, Gillette",
+            "optionValue": false
+          },
+          {
+            "optionText": "Security Program: Dunbar Armored Car",
+            "optionValue": false
+          },
+          {
+            "optionText": "Quick Print Program: FedEx Office",
+            "optionValue": false
+          },
+          {
+            "optionText": "ATM Program: e-Global",
+            "optionValue": false
+          },
+          {
+            "optionText": "A/V Products, Small/Large Appliances, Banquet/Catering Furniture: Almo Distribution",
+            "optionValue": false
+          }
+        ],
+        "multiple": true,
+        "mandatory": true
+      },
+      {
+        "questionId": 8,
+        "sectionTitle": "Technology and Communications",
+        "title": "Check All That Apply  Technology",
+        "options": [
+          {
+            "optionText": "Wireless Program: Sprint",
+            "optionValue": false
+          },
+          {
+            "optionText": "Wireless Program: Verizon",
+            "optionValue": false
+          }
+        ],
+        "multiple": true,
+        "mandatory": true
+      }
+    ]
+  }
+}
