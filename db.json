@@ -1,5 +1,5 @@
 {
-exihibit:{
+"exihibit":{
     "formType": "Exhibit A -Foodbuy",
     "questions": [
       {
@@ -168,27 +168,7 @@ exihibit:{
             "optionValue": false
           },
           {
-            "optionText": "Local Rental Linen Program: Alsco",
-            "optionValue": false
-          },
-          {
-            "optionText": "Sheets, Towels and Linens for Purchase: Sobel Westex",
-            "optionValue": false
-          },
-          {
-            "optionText": "Textiles Program: American Dawn, Inc",
-            "optionValue": false
-          },
-          {
             "optionText": "Key Card Program: PLI",
-            "optionValue": false
-          },
-          {
-            "optionText": "Mattress Program: Serta-Simmons",
-            "optionValue": false
-          },
-          {
-            "optionText": "Print Collateral, Brand & Promo Items, and Key Card Program: USFI",
             "optionValue": false
           },
           {
@@ -245,18 +225,6 @@ exihibit:{
             "optionValue": false
           },
           {
-            "optionText": "Bulk Oil, Oil Management Program: Restaurant Technologies, Inc",
-            "optionValue": false
-          },
-          {
-            "optionText": "Floor Cleaning Equipment (Vacuums, scrubbers, buffers) Program: Tennant",
-            "optionValue": false
-          },
-          {
-            "optionText": "Floor Cleaning Equipment (Vacuums, scrubbers, buffers) Program: Karcher / Windsor",
-            "optionValue": false
-          },
-          {
             "optionText": "Floor Cleaning Equipment (Vacuums, scrubbers, buffers) Program: Nilsk-Advance",
             "optionValue": false
           },
@@ -302,26 +270,6 @@ exihibit:{
             "optionValue": false
           },
           {
-            "optionText": "Cheney Brothers",
-            "optionValue": false
-          },
-          {
-            "optionText": "Shamrock Foods",
-            "optionValue": false
-          },
-          {
-            "optionText": "Gordon Foodservice",
-            "optionValue": false
-          },
-          {
-            "optionText": "Performance Food Group",
-            "optionValue": false
-          },
-          {
-            "optionText": "Food Services of America",
-            "optionValue": false
-          },
-          {
             "optionText": "Other",
             "optionValue": false
           },
@@ -355,26 +303,6 @@ exihibit:{
           },
           {
             "optionText": "Specialty Distribution: Tropical Nut",
-            "optionValue": false
-          },
-          {
-            "optionText": "Specialty Distribution: Ice Cream Distributors (Ex: Hershey Creamery, Jack & Jill, Ward’s, Gillette",
-            "optionValue": false
-          },
-          {
-            "optionText": "Security Program: Dunbar Armored Car",
-            "optionValue": false
-          },
-          {
-            "optionText": "Quick Print Program: FedEx Office",
-            "optionValue": false
-          },
-          {
-            "optionText": "ATM Program: e-Global",
-            "optionValue": false
-          },
-          {
-            "optionText": "A/V Products, Small/Large Appliances, Banquet/Catering Furniture: Almo Distribution",
             "optionValue": false
           }
         ],
