@@ -49,22 +49,6 @@
             "optionValue": false
           },
           {
-            "optionText": "Paper and Disposables Program: Network Distribution Centers **Program Eligibility Rules may apply. F",
-            "optionValue": false
-          },
-          {
-            "optionText": "Blast Chillers: Traulsen",
-            "optionValue": false
-          },
-          {
-            "optionText": "Blast Chillers: Irinox",
-            "optionValue": false
-          },
-          {
-            "optionText": "Blast Chillers: American Panel",
-            "optionValue": false
-          },
-          {
             "optionText": "Commercial Microwaves: Midea",
             "optionValue": false
           },
@@ -262,22 +246,6 @@
             "optionValue": false
           },
           {
-            "optionText": "Regional Dairy Program",
-            "optionValue": false
-          },
-          {
-            "optionText": "Regional Seafood Program",
-            "optionValue": false
-          },
-          {
-            "optionText": "Regional Fresh Bakery Program",
-            "optionValue": false
-          },
-          {
-            "optionText": "Regional Meat Program (includes Beef, Pork, Veal, Exotic)",
-            "optionValue": false
-          },
-          {
             "optionText": "Specialty Distribution: UNFI",
             "optionValue": false
           },
@@ -310,6 +278,22 @@
         "multiple": true,
         "mandatory": true
       }
-    ]
+    ],
+    "memberDetails": {
+    "exibitAFoodBuyId": "exhibit a",
+    "zipcode": "647908",
+    "yourTitle": "test",
+    "yourName": "test",
+    "provideContactInfo": null,
+    "state": "CA",
+    "propertyName": "test",
+    "memberName": "test 1",
+    "dateTime": null,
+    "city": "kansas",
+    "addressLine2": null,
+    "addressLine1": null,
+    "address": "address",
+    "additionalComments": "Additional comments"
+  }
   }
 }
