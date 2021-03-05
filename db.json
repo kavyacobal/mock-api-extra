@@ -294,6 +294,7 @@
     "addressLine1": null,
     "address": "address",
     "additionalComments": "Additional comments"
-  }
+  },
+    "newAnswersList":[]
   }
 }
