@@ -58,7 +58,7 @@
           }
         ],
         "multiple": true,
-        "mandatory": true
+        "mandatory": false
       },
       {
         "questionId": 3,
