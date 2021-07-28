@@ -287,6 +287,20 @@
           "isVisible": true
       }
     ],
+    "programsToExcludeTextBox": [
+    {
+      "name": "FOOD AND BEVERAGE A LA CARTE PROGRAM",
+      "value": ""
+    },
+    {
+      "name": "IN ROOM AMENITIES (OSE), LINEN, APPAREL",
+      "value": ""
+    },
+    {
+      "name": "Administrative and Technology",
+      "value": ""
+    }
+  ],
     "memberDetails": {
     "exibitAFoodBuyId": "exhibit a",
     "zipcode": "647908",
