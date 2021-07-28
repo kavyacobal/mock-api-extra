@@ -34,7 +34,9 @@
         ],
         "multiple": true,
         "mandatory": true,
-          "isVisible": true
+          "isVisible": true,
+          "hasTextArea":true,
+          "otherText":"Test"
       },
       {
         "questionId": 2,
