@@ -33,7 +33,8 @@
           }
         ],
         "multiple": true,
-        "mandatory": true
+        "mandatory": true,
+          "isVisible": true
       },
       {
         "questionId": 2,
@@ -58,7 +59,8 @@
           }
         ],
         "multiple": true,
-        "mandatory": false
+        "mandatory": false,
+          "isVisible": true
       },
       {
         "questionId": 3,
@@ -83,7 +85,8 @@
           }
         ],
         "multiple": true,
-        "mandatory": true
+        "mandatory": true,
+          "isVisible": true
       },
       {
         "questionId": 4,
@@ -100,7 +103,8 @@
           }
         ],
         "multiple": true,
-        "mandatory": true
+        "mandatory": true,
+          "isVisible": true
       },
       {
         "questionId": 5,
@@ -153,7 +157,8 @@
           }
         ],
         "multiple": true,
-        "mandatory": true
+        "mandatory": true,
+          "isVisible": true
       },
       {
         "questionId": 6,
@@ -214,7 +219,8 @@
           }
         ],
         "multiple": true,
-        "mandatory": true
+        "mandatory": true,
+          "isVisible": true
       },
       {
         "questionId": 7,
@@ -259,7 +265,8 @@
           }
         ],
         "multiple": true,
-        "mandatory": true
+        "mandatory": true,
+          "isVisible": false
       },
       {
         "questionId": 8,
@@ -276,7 +283,8 @@
           }
         ],
         "multiple": true,
-        "mandatory": true
+        "mandatory": true,
+          "isVisible": true
       }
     ],
     "memberDetails": {
